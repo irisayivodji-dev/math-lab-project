@@ -11,17 +11,22 @@
     "@react-three/drei": "^10.7.7",
     "@react-three/fiber": "^9.5.0",
     "@types/three": "^0.183.1",
+    "lamina": "^1.2.2",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "react-script": "^2.0.5",
     "three": "^0.183.2"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "npx react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.21",
+    "@types/react-dom": "^18.2.7",
+    "typescript": "^5.9.3"
   },
   "browserslist": [
     ">1%",
