@@ -1,14 +1,10 @@
-# Projet Mandelbrot — Math Lab
+# Sujet : Visualisation interactive de transformations géométriques (translation, rotation, scaling) 
 
 ## Objectif
-Générer et visualiser l’ensemble de Mandelbrot de manière interactive.  
-Chaque pixel correspond à un nombre complexe et sa couleur dépend du nombre d’itérations avant divergence.
+Comprendre comment les objets sont manipulés dans un espace numérique grâce aux mathématiques. 
+Montrer que les transformations visuelles (déplacement, rotation, agrandissement) reposent sur des formules mathématiques précises appliquées à des points.
 
 ## Lancer le projet
 
-## Concepts mathématiques
-- Nombres complexes
-- Itération de la fonction `z = z² + c`
-- Divergence et convergence
-- Coloration basée sur le nombre d’itérations
+
 
